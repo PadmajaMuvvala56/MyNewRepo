@@ -7,7 +7,7 @@ public class AccountHolderObjects {
 		AccountHolder henry = new AccountHolder();
 		AccountHolder david = new AccountHolder();
 
-		tom.firstName = "Tom";
+		tom.firstName = "Tom123";
 		tom.lastName = "Sawyer";
 		tom.age = 25;
 		tom.acctBal = 20000;
