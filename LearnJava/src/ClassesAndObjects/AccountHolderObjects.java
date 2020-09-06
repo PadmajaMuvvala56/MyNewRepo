@@ -16,7 +16,7 @@ public class AccountHolderObjects {
 		System.out.println("Is Tom eligible for CC: " + tom.isEligibleForCC);
 
 		henry.firstName = "Henry";
-		henry.lastName = "Hill";
+		henry.lastName = "Hiller";
 		henry.age = 20;
 		henry.acctBal = 35000;
 
